@@ -1,4 +1,4 @@
-// ============================================================
+// ===========================================================
 //  🍕 WORKER — PIZZARIA LA ROMA
 //  Cloudflare Workers
 //
@@ -7,7 +7,7 @@
 //    AIRTABLE_API_KEY   → Token pessoal do Airtable
 //    ADMIN_SENHA        → Senha do painel admin
 //    ADMIN_TOKEN        → Token estático para autenticar o admin
-// ============================================================
+// ===========================================================
 
 const AIRTABLE_API = "https://api.airtable.com/v0";
 
